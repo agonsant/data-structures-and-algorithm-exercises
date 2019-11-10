@@ -1,0 +1,14 @@
+{
+  "name": "data-structures-and-algotrithm-exercises",
+  "version": "1.0.0",
+  "description": "A set of JavaScript exercises about Abstract data types and algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "datastructures-js": "^6.0.2"
+  }
+}
